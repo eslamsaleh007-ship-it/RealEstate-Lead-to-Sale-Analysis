@@ -8,7 +8,7 @@ The project aims to identify conversion rates, funnel drop-offs, lead source per
 
 ## Team Members
 
-- Eslam Saleh
+- Eslam Mohamed Saleh
 - Abdelrahman Nasser Gouda
 - Basmala Amir
 - Mohamed Ashraf
